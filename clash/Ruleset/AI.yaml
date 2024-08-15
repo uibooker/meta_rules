@@ -57,6 +57,19 @@ payload:
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+
+# NAME: Bing
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing.com.cn
+  - DOMAIN-SUFFIX,bing.net
+  - DOMAIN-SUFFIX,bingads.com
+  - DOMAIN-SUFFIX,bingagencyawards.com
+  - DOMAIN-SUFFIX,bingapistatistics.com
+  - DOMAIN-SUFFIX,bingsandbox.com
+  - DOMAIN-SUFFIX,bingvisualsearch.com
+  - DOMAIN-SUFFIX,bingworld.com  
   
 # NAME: Copilot
 # DOMAIN: 20
@@ -116,8 +129,8 @@ payload:
   - IP-CIDR,64.23.132.171/32
   - IP-ASN,14061
   - IP-ASN,20473
-
-  # Gemini
+  
+# Gemini
   - DOMAIN,ai.google.dev
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,makersuite.google.com
@@ -132,25 +145,25 @@ payload:
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
 
-  # Claude
+# Claude
   - DOMAIN,cdn.usefathom.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
   - IP-CIDR,160.79.104.0/23,no-resolve
   - IP-CIDR6,2607:6bc0::/48,no-resolve
 
-  # JetBrains AI
+# JetBrains AI
   - DOMAIN-SUFFIX,grazie.ai
   - DOMAIN-SUFFIX,grazie.aws.intellij.net
 
-  # Meta AI
+# Meta AI
   - DOMAIN,imagine.meta.com
   - DOMAIN-SUFFIX,meta.ai
 
-  # Perplexity
+# Perplexity
   - DOMAIN-SUFFIX,perplexity.ai
 
-  # Mistral AI
+# Mistral AI
   - DOMAIN,chat.mistral.ai
   - DOMAIN,console.mistral.ai
   - DOMAIN-SUFFIX,mistral.ai
