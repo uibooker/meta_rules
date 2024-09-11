@@ -1,0 +1,80 @@
+# 2024-09-11
+
+# ChatGPT
+openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
++.openai.com.cdn.cloudflare.net
+o33249.ingest.sentry.io
+browser-intake-datadoghq.com
+chat.openai.com.cdn.cloudflare.net
+gemini.google.com
+openai-api.arkoselabs.com
+openaicomproductionae4b.blob.core.windows.net
+production-openaicom-storage.azureedge.net
+static.cloudflareinsights.com
++.ai.com
++.algolia.net
++.api.statsig.com
++.auth0.com
++.chatgpt.com
++.chatgpt.livekit.cloud
++.client-api.arkoselabs.com
++.events.statsigapi.net
++.featuregates.org
++.host.livekit.cloud
++.identrust.com
++.intercom.io
++.intercomcdn.com
++.launchdarkly.com
++.oaistatic.com
++.oaiusercontent.com
++.observeit.net
++.openai.com
++.openaiapi-site.azureedge.net
++.openaicom.imgix.net
++.segment.io
++.sentry.io
++.stripe.com
++.turn.livekit.cloud
+ 
+# Copilot
+api.githubcopilot.com
+copilot-proxy.githubusercontent.com
+copilot.microsoft.com
+sydney.bing.com
+www.bing.com
+ 
+# Gemini
+bard.google.com
+gemini.google.com
+aida.googleapis.com
+aistudio.google.com
+ai.google.dev
+alkalimakersuite-pa.clients6.google.com
+generativelanguage.googleapis.com
+makersuite.google.com
++.bard.google.com
++.deepmind.com
++.deepmind.google
++.gemini.google.com
++.generativeai.google
++.proactivebackend-pa.googleapis.com
+ 
+# Claude
++.anthropic.com
++.claude.ai
+ 
+# JetBrains AI
++.grazie.ai
++.grazie.aws.intellij.net
+ 
+# Meta AI
+imagine.meta.com
++.meta.ai
+ 
+# Perplexity
++.perplexity.ai
+ 
+# Mistral AI
+chat.mistral.ai
+console.mistral.ai
++.mistral.ai
