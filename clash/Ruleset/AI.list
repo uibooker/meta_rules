@@ -191,8 +191,7 @@ DOMAIN-KEYWORD,generativelanguage
 # Claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
-IP-CIDR,160.79.104.0/23,no-resolve
-IP-CIDR6,2607:6bc0::/48,no-resolve
+
  
 # JetBrains AI
 DOMAIN-SUFFIX,grazie.ai
@@ -209,3 +208,6 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN,chat.mistral.ai
 DOMAIN,console.mistral.ai
 DOMAIN-SUFFIX,mistral.ai
+
+# Groq
+OMAIN-SUFFIX,groq.com
