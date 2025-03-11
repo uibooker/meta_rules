@@ -167,3 +167,5 @@ payload:
   - DOMAIN,chat.mistral.ai
   - DOMAIN,console.mistral.ai
   - DOMAIN-SUFFIX,mistral.ai
+# Groq
+  - OMAIN-SUFFIX,groq.com
